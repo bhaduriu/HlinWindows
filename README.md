@@ -18,4 +18,4 @@ C# and XAML
 Microsoft Azure 
 <h4>Target platform:</h4>  
 Dekstop with Windows 8 or above 
-<h3>Link to download HLIN:</h3> <a href="http://www.cyberknights.in/download/HlinWindowsDesktop"> http://www.cyberknights.in/download/HlinWindowsDesktop </a>
+<h3>Link to download HLIN:</h3> <a href="https://www.microsoft.com/en-us/store/p/hlin/9nblggh5q6gx"> https://www.microsoft.com/en-us/store/p/hlin/9nblggh5q6gx </a>
